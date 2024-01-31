@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AWS three tier Achitecture**
 
-- 🌱 I’m currently learning **Docker, Kubernates, Jenkins, Terraform**
+- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Terraform**
 
 - 💬 Ask me about **NodeJS, Express, AWS, JAVA, JavaScript**
 
