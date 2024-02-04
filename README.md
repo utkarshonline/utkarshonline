@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **utkarshagnihotri7@gmail.com**
 
-- 📄 Know about my experiences [Resume](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://utkarshonline.github.io/images/Utkarsh_Agnihotri_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://utkarshonline.github.io/images/Utkarsh_Agnihotri_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
