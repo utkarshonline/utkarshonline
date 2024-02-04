@@ -9,9 +9,13 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, Terraform**
 
+- 👨‍💻 All of my projects are available at [Repository](https://github.com/utkarshonline?tab=repositories)
+
 - 💬 Ask me about **NodeJS, Express, AWS, JAVA, JavaScript**
 
 - 📫 How to reach me **utkarshagnihotri7@gmail.com**
+
+- 📄 Know about my experiences [Resume](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://utkarshonline.github.io/images/Utkarsh_Agnihotri_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
