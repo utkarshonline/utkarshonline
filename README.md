@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshonline" alt="utkarshonline" /></a> </p>
 
-- 🔭 I’m currently working on **AWS three tier Achitecture and CICD Pipeline**
+- 🔭 I’m currently working on **AWS three tier Achitecture and CICD Pipeline**   
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
 
 
